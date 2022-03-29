@@ -1,0 +1,36 @@
+ 
+****************************************
+check_design summary:
+Version:     R-2020.09-SP5
+Date:        Thu Dec  9 10:44:02 2021
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                      1
+    Constant outputs (LINT-52)                                      1
+
+Cells                                                              18
+    Cells do not drive (LINT-1)                                    18
+--------------------------------------------------------------------------------
+
+Warning: In design 'IOTDF', cell 'C8748' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8763' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8794' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8818' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8833' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8864' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8889' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8913' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8919' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8944' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8969' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8987' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C8999' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C9022' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C9033' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C9052' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C9087' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', cell 'C9110' does not drive any nets. (LINT-1)
+Warning: In design 'IOTDF', output port 'busy' is connected directly to 'logic 0'. (LINT-52)
+1
