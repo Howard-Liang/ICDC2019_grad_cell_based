@@ -1,4 +1,4 @@
-# ICC2019_final_grad_cell_based
+# ICDC2019_final_grad_cell_based
 
 ## Description
 
@@ -23,7 +23,7 @@ The gate-level circuit can be tested by using the following command:
 $ source runall_syn
 ```
 
-## IC Contest Host
+## ICD Contest Host
 For more information, please download the spec and problem description at:  
 http://icdc.ntust.edu.tw/2022/index2.php?page=OldExams
 
