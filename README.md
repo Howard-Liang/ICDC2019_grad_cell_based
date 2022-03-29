@@ -24,7 +24,7 @@ $ source runall_syn
 ```
 
 ## IC Contest Host
-For more information, you can download the spec and problem description at:  
+For more information, please download the spec and problem description at:  
 http://icdc.ntust.edu.tw/2022/index2.php?page=OldExams
 
 ## Authors
