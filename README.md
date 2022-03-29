@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project for 2019 ic contest graduation group, which implements an IoT Data Filter (IOTDF) that can process large IoT data from the sensors, and output the result in real-time.
+This is a project for 2019 ic design contest graduation group, which implements an IoT Data Filter (IOTDF) that can process large IoT data from the sensors, and output the result in real-time.
 
 
 ## Executing Program
