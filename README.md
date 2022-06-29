@@ -15,6 +15,15 @@ This is a project for 2019 ic design contest graduation group, which implements 
 
 Top module: IOTDF.v
 
+## Clock Gating
+
+Clock gating is used in this project.  
+To do so, replace clk with other gated clock signal in the sequential block.
+ex. in IOTDF:
+```
+
+```
+
 ## Executing Program
 
 A testbench code (./testfixture.v) and several golden data were provided by the contest host.  
