@@ -3,7 +3,17 @@
 ## Description
 
 This is a project for 2019 ic design contest graduation group, which implements an IoT Data Filter (IOTDF) that can process large IoT data from the sensors, and output the result in real-time.
+<p align="center">
+<img src="https://github.com/Howard-Liang/ICDC2019_grad_cell_based/blob/main/image/iotdf.PNG" width=40% height=40%>
+</p>
 
+## Block Diagram
+
+<p align="center">
+<img src="https://github.com/Howard-Liang/ICDC2019_grad_cell_based/blob/main/image/iotdf_block.PNG" width=40% height=40%>
+</p>
+
+Top module: IOTDF.v
 
 ## Executing Program
 
