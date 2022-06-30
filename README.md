@@ -18,10 +18,21 @@ Top module: IOTDF.v
 ## Clock Gating
 
 Clock gating is used in this project.  
-To do so, replace clk with other gated clock signal in the sequential block.
-ex. in IOTDF:
+To do so, replace clk with other gated clock signal in the sequential block of RTL code.  
+For example:
 ```
-
+assign gclk = clk & enable;
+always @ (posedge gclk or negedge rst_n) begin
+```
+When synthesizing the circuit, replace_clock_gates instruction should be placed before compile instruction.  
+For example:
+```
+replace_clock_gates
+compile_ultra
+```
+After compiling, you can check the gating result with the report command:
+```
+report_clock_gating -gating_elements
 ```
 
 ## Executing Program
